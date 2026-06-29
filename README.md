@@ -1,5 +1,5 @@
-# 👋 Hello, I'm Kazuyoshi Shoji
-東海林一義（kazuyoshi shoji）
+# 👋 Hello, I'm 東海林一義（kazuyoshi shoji）
+
 
 ### 経営 × AI × オープンソースで、誰もが使える知識を形にする。
 
